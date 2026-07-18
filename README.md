@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains my hands-on OPNsense Firewall Homelab performed in VirtualBox. The project covers OPNsense installation, initial configuration, interface setup, firewall rule creation, firewall policy validation, alias configuration, traffic testing using Kali Linux, firewall log analysis, and rule verification.
-
+ 
 ## Lab Environment
 - OPNsense
 - VirtualBox
